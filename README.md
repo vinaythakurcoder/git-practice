@@ -10,5 +10,5 @@ This repository is created to practice Git and GitHub basics.
 - git pull
 - branch basics
 
-Learning Git step by step.
+###Learning Git step by step.
 
