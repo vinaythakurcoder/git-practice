@@ -1,1 +1,1 @@
-git is best way for my coding histry
+Today I successfully connected VS Code with GitHub.
